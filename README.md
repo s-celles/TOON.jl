@@ -1,5 +1,6 @@
 # ToonFormat.jl
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18650017.svg)](https://doi.org/10.5281/zenodo.18650017)
 [![CI](https://github.com/toon-format/ToonFormat.jl/workflows/CI/badge.svg)](https://github.com/toon-format/ToonFormat.jl/actions/workflows/CI.yml)
 [![Documentation](https://github.com/toon-format/ToonFormat.jl/workflows/Documentation/badge.svg)](https://github.com/toon-format/ToonFormat.jl/actions/workflows/Documentation.yml)
 [![codecov](https://codecov.io/gh/s-celles/ToonFormat.jl/branch/main/graph/badge.svg)](https://codecov.io/gh/s-celles/ToonFormat.jl)
